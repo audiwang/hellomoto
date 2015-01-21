@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<data>
+		<row>
+			<value>Apr 26, 2002</value>
+			<value>0.210066429</value>
+			<value>JA1</value>
+			<value>F</value>
+			<value>B</value>
+			<value>1</value>
+		</row>
+		<row>
+			<value>Apr 27, 2002</value>
+			<value>0.1111111</value>
+			<value>BBB</value>
+			<value>G</value>
+			<value>B</value>
+			<value>2</value>
+		</row>
+	</data>
+</root>

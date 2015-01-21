@@ -1,0 +1,30 @@
+2015-01-11 20:12:57.517 你好機車[8153:645120] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/audi/Library/Developer/CoreSimulator/Devices/A53BFB4A-7A74-4688-973D-80BA59BE1DB5/data/Containers/Data/Application/C898A09B-C8D7-4030-93A1-A6904024772D/Library/Cookies/Cookies.binarycookies
+2015-01-11 20:12:58.763 你好機車[8153:645120] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-11 20:12:58.763 你好機車[8153:645120] Multi-tasking -> Device: YES, App: YES
+2015-01-11 20:12:58.808 你好機車[8153:645120] Unlimited access to network resources
+2015-01-11 20:12:58.828 你好機車[8153:645120] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-11 20:13:00.531 你好機車[8153:645120] ERROR: Start Page at 'www/readme.html' was not found.
+2015-01-11 20:13:01.832 你好機車[8153:645120] Resetting plugins due to page load.
+2015-01-11 20:13:01.899 你好機車[8153:645120] Finished load of: about:blank
+2015-01-12 17:42:11.355 你好機車[10496:1067872] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/audi/Library/Developer/CoreSimulator/Devices/A53BFB4A-7A74-4688-973D-80BA59BE1DB5/data/Containers/Data/Application/7714F946-DCDC-4949-B0BE-ED83A1CF8555/Library/Cookies/Cookies.binarycookies
+2015-01-12 17:42:12.093 你好機車[10496:1067872] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 17:42:12.094 你好機車[10496:1067872] Multi-tasking -> Device: YES, App: YES
+2015-01-12 17:42:12.119 你好機車[10496:1067872] Unlimited access to network resources
+2015-01-12 17:42:12.134 你好機車[10496:1067872] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 17:42:14.349 你好機車[10496:1067872] Resetting plugins due to page load.
+2015-01-12 17:42:14.674 你好機車[10496:1067872] Finished load of: file:///Users/audi/Library/Developer/CoreSimulator/Devices/A53BFB4A-7A74-4688-973D-80BA59BE1DB5/data/Containers/Bundle/Application/60BCCBB0-0F07-43EF-BBBC-D3DB43DC4F22/%E4%BD%A0%E5%A5%BD%E6%A9%9F%E8%BB%8A.app/www/index.html
+2015-01-12 17:48:50.714 你好機車[10496:1070447] Terminating since there is no system app.
